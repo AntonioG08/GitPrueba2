@@ -1,0 +1,41 @@
+Comandos principalmente para GitBash (a menos que aclare 'cd')
+
+
+touch 'prueba.txt' crea un archivo de plano texto llamado prueba.txt
+
+usamos 'cd' para avanzar a directorios, con 'cd ..' volvemos un step atras
+
+usamos 'ls' para desplegar todo lo que contiene el directorio, y 'ls -l' para desplegarlo pero con toda 
+la información de cada documento.
+
+Para elegir directorios que tiene espacios en sus nombres, por ejemplo 'Git y GitHub' usamos la siguiente
+sintaxis: Git\ y\ GitHub
+
+Para borrar todo en líneas anteriores usamos el comando: 'clear', en el cmd de windows esto se logra 
+usando 'cls'
+
+con 'pwd' te arroja toda la dirección entera de tu ubicación actual en la que estás
+
+en CMD podemos ver el contenido de un bloc de notas con el comando 'more', por ejemplo, 'more prueba.txt',
+y para hacer esto en GitBash escribimos 'cat', por ejemplo 'cat prueba.txt'
+
+con el comando 'history' podemos ver todos los comandos con los que he trabajado, muy útil en caso de que
+en algún punto olvide alguno
+
+Si un comando es muy largo o grande, podemos usar history, ver que número de identificador tiene, por 
+ejemplo supongamos que el número 6 es el clear y lo queremos repetir, escribimos !6
+
+presionando la tecla hacia arriba nos arroja el ultimo comando hecho, por si quisieramos repetir el anterior
+
+con el comando 'rm prueba.txt' le estamos pidiendo 'remove' o remover a GitBash
+
+agregando '--help' a un comando, nos despliega una lista de ayuda para ver como usarlo en su totalidad, 
+por ejemplo 'cd --help'
+
+con 'git init' iniciamos un repositorio de git en la ubicación actual
+con 'git status' vemos el status actual del directorio, que cambios ya fueron guardados y cuales no
+con 'git add prueba.txt' para guardar en un commit lo que actualizamos de un archivo específico
+con 'git add .' le indicamos que todos los archivos del directorio se actualicen
+con 'git commit -m "titulo del commit" guardamos el commit y en titulo podemos poner lo que cambiamos
+
+

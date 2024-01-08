@@ -1,0 +1,46 @@
+Descuentos mensuales para todos los cursos. 
+(Desde el pricipio del mes, hasta el final de este [30 días])
+precio de $12.99 o su equivalente en tu moneda Nacional
+
+MENSUAL_MES_AÑO
+
+Ejemplos:
+MENSUAL_ENE_2022
+MENSUAL_FEB_2022
+MENSUAL_MAR_2022
+MENSUAL_ABR_2022
+MENSUAL_MAY_2022
+MENSUAL_JUN_2022
+
+También se generan 2 cupones con el precio más bajo $9.99
+o su equivalente en moneda nacional
+Se generan los Días 15 del mes y el 25 del mes
+
+MEDIADOS_MES_AÑO -> de los días 15 al 20 del mes
+FINALES_MES_AÑO -> de los días 25 a 30 del mes
+
+
+Ejemplos
+MEDIADOS_ENE_2022
+FINALES_ENE_2022
+MEDIADOS_FEB_2022
+FINALES_FEB_2022
+MEDIADOS_MAR_2022
+FINALES_MAR_2022
+
+-------------------------------------------
+-- Todos los códigos con relación al mes --
+-------------------------------------------
+
+Enero->ENE
+Febrero->FEB
+Marzo->MAR
+Abril->ABR
+Mayo->MAY
+Junio->JUN
+Julio->JUL
+Agosto->AGO
+Septiembre->SEP
+Octubre->OCT
+Noviembre->NOV
+Diciembre->DIC
