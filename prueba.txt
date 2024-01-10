@@ -38,4 +38,10 @@ con 'git add prueba.txt' para guardar en un commit lo que actualizamos de un arc
 con 'git add .' le indicamos que todos los archivos del directorio se actualicen
 con 'git commit -m "titulo del commit" guardamos el commit y en titulo podemos poner lo que cambiamos
 
+'Este mensaje es de prueba para ver las distintas versiones usando git'
+
+con 'git rm' podemos borrar un commit de la lista de modificaciones en caso de detectat un error, despues
+	debemos poner 'git rm --cached prueba.txt' para hacer double check y se borre de la lista
+
+
 
