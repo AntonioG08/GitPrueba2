@@ -42,6 +42,7 @@ con 'git commit -m "titulo del commit" guardamos el commit y en titulo podemos p
 
 con 'git rm' podemos borrar un commit de la lista de modificaciones en caso de detectat un error, despues
 	debemos poner 'git rm --cached prueba.txt' para hacer double check y se borre de la lista
+con 'git commit -m "agregue texto" ' estamos guardando un commit con el título 'agregue texto'
 
 
 
