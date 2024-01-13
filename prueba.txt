@@ -48,5 +48,9 @@ con 'git log' puedo ver todos los 'logs' o entradas de texto, es decir, ver toda
 
 'commit de prueba
 
+veremos la diferencia otra vez
+en este caso queremos ver la diferencia entre varias líneas
+por ejemplo, modificando varias 'líneas de código'
+
 
 
