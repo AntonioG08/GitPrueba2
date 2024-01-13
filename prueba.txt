@@ -46,4 +46,7 @@ con 'git commit -m "agregue texto" ' estamos guardando un commit con el título 
 con 'git log' puedo ver todos los 'logs' o entradas de texto, es decir, ver todas las versiones modificadas
 	que se han hecho, y así elegir una pasada para visualizar. 
 
+'commit de prueba
+
+
 
