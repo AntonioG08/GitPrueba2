@@ -3,6 +3,7 @@ x = 3
 y = 2
 z = 45
 b = 10
+c = 30
 
 print(f'Hola mi nombre es tony y el número es {3}')
 
