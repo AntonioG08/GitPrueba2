@@ -11,3 +11,8 @@ nombre = input("Por favor ingresa tu nombre: ")
 apellido = input("Por favor ingrese también su apellido: ")
 
 print(f'Hola {nombre} {apellido}')
+
+"""Me equivoque, y ahora esta es la sección donde estarán realmente las variables nuevas de la rama 'variablesNuevas' """
+oye = 9383082
+hola = 92490
+sicuel = 202039
