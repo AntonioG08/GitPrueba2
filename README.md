@@ -1,2 +1,2 @@
 # PruebaApp
-Repositorio de prueba para comenzar a aprender con Git y GitHub
+Testing repository used to learn more about the Git and GitHub features and updates.
